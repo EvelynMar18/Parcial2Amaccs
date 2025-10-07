@@ -122,6 +122,6 @@ export default {
 
 <style scoped>
 body {
-  background-color: yellow;
+  background-color: red;
 }
 </style>
